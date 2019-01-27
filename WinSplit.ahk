@@ -196,7 +196,7 @@ GridSetup(MonitorLeft,MonitorTop,MonitorWidth,MonitorHeight)
 	W52:= Round(MonitorWidth/3)
 	H52:= MonitorHeight
 
-	X53:= Monitor6eft + Round(MonitorWidth/6)
+	X53:= MonitorLeft + Round(MonitorWidth/6)
 	Y53:= MonitorTop
 	W53:= Round(MonitorWidth*2/3)
 	H53:= MonitorHeight
